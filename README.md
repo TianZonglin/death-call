@@ -1,8 +1,8 @@
 # death-call
 
-- **演示地址：[bbcall.glitch.me](https://bbcall.glitch.me)**
+- **演示地址：[cz5h.com/call.html](https://www.cz5h.com/call.html)**
 
-- **备用：[cz5h.com/call.html](https://www.cz5h.com/call.html)**
+- **备用（没铃声请更换此链接）：[bbcall.glitch.me](https://bbcall.glitch.me)**
 
 - **通过HTML+CSS+JS仿写的微信通话页面。**
 
