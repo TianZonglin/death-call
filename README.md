@@ -10,5 +10,7 @@
 
 - **可以用接通后的语音来恶搞他人！**
 
+![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20200827211056.png)
+
 ![](https://cdn.jsdelivr.net/gh/TianZonglin/tuchuang/img/20200827204640.png)
 
